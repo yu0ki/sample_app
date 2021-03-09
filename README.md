@@ -1,24 +1,9 @@
-# README
+# レポジトリsample_appについての説明
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このレポジトリはRuby on Railsの使用方法を学ぶために作成した練習用アプリケーションである。
+タイトルと本文を１セットにしたレコード（投稿）をデータベースに保存し、それらを新規作成、表示、編集できるようにしている。
 
-Things you may want to cover:
+# 各フォルダについての説明
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
